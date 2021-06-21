@@ -23,7 +23,7 @@ area or default one
 options – buttons on the map or mouse wheel scroll
 ◆ As an system integrator I should be able to store following data in DB:
 - Location (city, long, lat, address, address details)
-- The DB schema should be normalized and have no duplicates of city
+- - The DB schema should be normalized and have no duplicates of city
 names
 - Address details should be a varchar field that allow to store additional
 information for asset like company name, name of the building
